@@ -27,6 +27,11 @@ Beschäftigte der Stadt Winterthur
 Anzahl der Beschäftigten in der Stadt Winterthur
 Quelle: https://www.zh.ch/de/politik-staat/statistik-daten/datenkatalog.html#/datasets/1823@stadt-winterthur
 
+## 
+
+Wir benutzen zudem auch auf GitHub Projects, um unsere Planung zu machen und das Wiki, um unser Resultat festzuhalten.
+
+
 
 # 
 
